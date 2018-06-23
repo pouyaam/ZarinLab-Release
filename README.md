@@ -9,7 +9,7 @@ Zarinlab is a middleware web based application, (ZarinPal - StreamLab) which not
 
 2- [Download ZarinLab latest file](https://github.com/pouyaam/ZarinLab-Release/raw/master/ZarinLab-1.2-EARLY-ACCESS.jar)
 
-2- Run ZarinlaB-*.jar File
+2- Run ZarinLab-*.jar File
 
 3- Open http://localhost:4567 in your broswer
 
