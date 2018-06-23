@@ -17,6 +17,7 @@ Zarinlab is a middleware web based application, (ZarinPal - StreamLab) which not
 
 5- Connect your Streamlab to ZarinLab
 
+6- Keep http://localhost:4567/transactions opens so it can detect new transaction and notify
 
 ## Source code
 Will be available soon after some code cleaning xD
