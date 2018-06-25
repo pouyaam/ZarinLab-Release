@@ -7,7 +7,7 @@ Zarinlab is a middleware web based application, (ZarinPal - StreamLab) which not
 ## Install
 1- Install Java SE Runtime Environment 8
 
-2- [Download ZarinLab latest file](https://github.com/pouyaam/ZarinLab-Release/raw/master/ZarinLab-1.2-EARLY-ACCESS.jar)
+2- [Download ZarinLab latest file](https://github.com/pouyaam/ZarinLab-Release/raw/master/ZarinLab-1.3-EARLY-ACCESS.jar)
 
 2- Run ZarinLab-*.jar File
 
