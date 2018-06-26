@@ -3,7 +3,7 @@
 ## Introduction
 Zarinlab is a middleware web based application, (ZarinPal - StreamLab) which notifies Streamlab when there is a new donation in your Zarinpal wallet.
 
-زری‌لب یک نرم افزار تحت وب هست که کیف پول شما را در  زرین‌پال به سرویس استریم‌لب وصل می‌کند و هر زمانی که کاربران توسط زرین‌پال شما را حمایت کردند، اعلان حمایت مالی استریم‌لب فعال می‌شود
+زرین‌لب یک نرم افزار تحت وب هست که کیف پول شما را در  زرین‌پال به سرویس استریم‌لب وصل می‌کند و هر زمانی که کاربران توسط زرین‌پال شما را حمایت کردند، اعلان حمایت مالی استریم‌لب فعال می‌شود
 
 Please Join us in [ZarinLab Telegram Channel](https://t.me/ZarinLab) for latest news
 لطفا به کانال تلگرام زرین‌لب بپیوندید
