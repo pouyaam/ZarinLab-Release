@@ -5,7 +5,7 @@ Zarinlab is a middleware web based application, (ZarinPal - StreamLab) which not
 
 زری‌لب یک نرم افزار تحت وب هست که کیف پول شما زرین پل شما را به سرویس استریم‌لب وصل می‌کند و هر زمانی که کاربران توسط زرین‌پال شما را حمایت کردند، اعلان حمایت مالی استریم‌لب فعال می‌شود
 
-Please Join us in [ZarinLab Telegram Channel]{https://t.me/ZarinLab} for latest news
+Please Join us in [ZarinLab Telegram Channel](https://t.me/ZarinLab) for latest news
 لطفا به کانال تلگرام زرین‌لب بپیوندید
 
 
@@ -54,7 +54,7 @@ Please Join us in [ZarinLab Telegram Channel]{https://t.me/ZarinLab} for latest 
 If you want to logout , open http://localhost:4567/logout .. !! xD 
 
 ## Source code
-Source code is available at [ZarinLab-Public Repository]{https://github.com/pouyaam/ZarinLab-Public}
+Source code is available at [ZarinLab-Public Repository](https://github.com/pouyaam/ZarinLab-Public)
 
 
 
