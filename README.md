@@ -11,25 +11,37 @@ Zarinlab is a middleware web based application, (ZarinPal - StreamLab) which not
 
 ۱- ابتدا جاوا نسخه ۸ و یا بالاتر را برروی سیستم خود نصب کنید
 
+--------------------------------------------------------------
+
 2- [Download ZarinLab latest file](https://github.com/pouyaam/ZarinLab-Release/raw/master/ZarinLab-1.3-EARLY-ACCESS.jar)
 
 ۲- برنامه را از لینک داده شده دانلود کنید
+
+--------------------------------------------------------------
 
 3- Run ZarinLab-*.jar File
 
 ۳- برنامه را اجرا کنید
 
+--------------------------------------------------------------
+
 4- Open http://localhost:4567 in your broswer
 
 ۴- لینک داده شده را در مرورگر خود باز کنید
+
+--------------------------------------------------------------
 
 5- Connect your ZarinPal Wallet with Phone verification to ZarinLab
 
 ۵- توسط برنامه کیف پول زرین‌پال خود را وصل کنید
 
+--------------------------------------------------------------
+
 6- Connect your Streamlab to ZarinLab
 
 ۶- اکانت استریم‌لب خود را به برنامه وصل کنید
+
+--------------------------------------------------------------
 
 7- Keep http://localhost:4567/transactions opens so it can detect new transaction and notify
 
