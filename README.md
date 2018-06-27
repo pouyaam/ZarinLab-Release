@@ -16,7 +16,7 @@ Please Join us in [ZarinLab Telegram Channel](https://t.me/ZarinLab) for latest 
 
 --------------------------------------------------------------
 
-2- [Download ZarinLab latest file](https://github.com/pouyaam/ZarinLab-Release/raw/master/ZarinLab-1.3-EARLY-ACCESS.jar)
+2- [Download ZarinLab latest file](https://github.com/pouyaam/ZarinLab-Release/raw/master/ZarinLab-1.4-EARLY-ACCESS.jar)
 
 ۲- برنامه را از لینک داده شده دانلود کنید
 
@@ -50,8 +50,24 @@ Please Join us in [ZarinLab Telegram Channel](https://t.me/ZarinLab) for latest 
 
 ۷- در مرورگر خود لینک داده شده را به منظور شناسایی تراکنش جدید و اعلان آن، باز نگه دارید
 
-## Logout
-If you want to logout , open http://localhost:4567/logout .. !! xD 
+## Patch Note
+### V1.4
+- [ADD] Top Nav Bar
+
+- اضافه شدن منو در بالای صفحات
+
+- [ADD] Now Streamer can change some configs,
+
+- اضافه شدن قابلیت تغییر برخی از تنظیمات
+```
+Transaction Refresh Time - در چه فاصله زمانی صفحه تراکنش ها رفرش شود
+Currency Exchange Rate - Toman - نرخ ارز مرجع را مشخص میکند
+Currency Exchange Name - نام مخفف ارز مرجع 
+
+Notify - درصورت فعال بودن، برنامه اعلان‌ها ها را میفرستد
+Exchange - درصورت فعال بود، عملیات تبدیل نرخ ارز صورت میگیرد
+```
+
 
 ## Source code
 Source code is available at [ZarinLab-Public Repository](https://github.com/pouyaam/ZarinLab-Public)
